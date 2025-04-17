@@ -1,1 +1,1 @@
-# C_Sharp_URL_Shortener
+dotnet run
